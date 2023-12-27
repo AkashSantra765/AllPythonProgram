@@ -1,0 +1,9 @@
+a=45
+b=65
+c=25
+d=36
+''' Here 45 stored in a variable
+   65 stored in b variable
+   25 stored in c variable
+   36 stored in d variable'''
+print(a,b,c,d,sep='\n')

@@ -1,0 +1,1 @@
+print("Even") if 11%2==0 else print("Odd")

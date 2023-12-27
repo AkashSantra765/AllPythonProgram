@@ -1,0 +1,9 @@
+1!+2!+3!+4!=?
+
+list of prime numbers in range
+
+
+pascal triangle
+
+
+fibonacci series 
